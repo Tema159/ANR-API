@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"me.tema159.ANR","c":"Anr","l":"get()"},{"p":"me.tema159.ANR","c":"Api","l":"reload()"},{"p":"me.tema159.ANR","c":"Anr","l":"setImplementation(Api)","u":"setImplementation(me.tema159.ANR.Api)"},{"p":"me.tema159.ANR","c":"Api","l":"setViewDistance(Player, int...)","u":"setViewDistance(org.bukkit.entity.Player,int...)"}];updateSearchResults();

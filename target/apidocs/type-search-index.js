@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"me.tema159.ANR","l":"Anr"},{"p":"me.tema159.ANR","l":"Api"}];updateSearchResults();
