@@ -14,7 +14,9 @@ dependencies:
       required: true
 ```
 
-Add the repository with the dependency to your build file from [this link](https://jitpack.io/#Tema159/ANR-API/v1.1.0e)
+Add the repository with the dependency to your build file from this link
+
+[![](https://jitpack.io/v/Tema159/ANR-API.svg)](https://jitpack.io/#Tema159/ANR-API)
 
 # Usage
 
